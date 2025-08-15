@@ -34,7 +34,7 @@ CRUD-приложение на **FastAPI** с PostgreSQL, полностью к�
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/username/diary-api.git
+git clone https://github.com/Qretnh/CRUD-diary.git
 cd diary-api
 ```
 
