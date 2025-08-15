@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.python-version
+
+# Virtual env
+.venv/
+venv/
+env/
+
+# dotenv
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# Mypy
+.mypy_cache/
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+htmlcov/
+.coverage
+.coverage.*
+.cache
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Docker
+postgres_data/
+*.log
+
+# Misc
+.DS_Store
