@@ -1,5 +1,3 @@
-from db.connector import engine
-from db.models.base import Base
 from fastapi import FastAPI
 from routers import notes
 
